@@ -12,9 +12,10 @@
 
 ### 👩🏻‍💻 About Me:
 I am a Computer Science - Software Practice student at the University of Alberta!
+<!--
 - :telescope: I work on various software development, as well as full-stack web development.
-
-- :seedling: Currently learning Machine Learning!
+-->
+- :seedling: Currently learning Machine Learning and Design!
 
 - I am proud to be the VP Finance of [Ada's Team](https://adasteam.ca), a student org dedicated to promoting diversity in the tech sector!
 - - I am proud to be the first female President of the [Undergraduate Artificial Intelligence Society](https://uais.dev/), a student org dedicated to bringing AI and ML education to undergraduate students through academics, industry, and projects!
