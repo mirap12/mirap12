@@ -1,8 +1,8 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mark-maligalig/">
+  <a href="https://www.linkedin.com/in/mira-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mark8m&style=for-the-badge&color=blueviolet&base=0" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mirap12&style=for-the-badge&color=blueviolet&base=0" alt=""/>
 </div>
 
 <div align="center">
